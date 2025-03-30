@@ -48,7 +48,7 @@ La mejor ruta de A a D es: ['A', 'B', 'D']
 - Optimización del algoritmo de búsqueda.
 
 ## Autor
-_Tu Nombre_
+Oscar Andres Martinez Vela
 
 ## Licencia
 Este proyecto se distribuye bajo la licencia MIT.
