@@ -1,5 +1,6 @@
 # SistemaTransporte
-En Python se crean instrucciones para el desarrollo de un sistema inteligente que, a partir de una base de conocimiento escrito en reglas lógicas, desarrolle la mejor ruta para moverse desde un punto A y un punto B en el sistema de transporte masivo local.
+Se crea explicacion del codigo por medio del siguiente video para su consulta: https://youtu.be/BnWcW43FkeE
+Ademas de una breve descripcion para hacer uso del ejercicio:
 
 # Sistema Inteligente para Rutas en Transporte Masivo
 
